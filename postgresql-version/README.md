@@ -36,3 +36,4 @@ GRANT ALL PRIVILEGES ON SEQUENCE instances_id_seq TO go_proxmox;
 
 \q
 ```
+_**N.B - Credentials are still included in the code, this is strictly for PoC/testing use**_
